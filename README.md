@@ -14,5 +14,3 @@ Profile Statistics
     </td>
   </tr>
 </table>
-
-[![OreoKittens's GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoKitten)](https://github.com/OreoKitten/github-readme-stats)
